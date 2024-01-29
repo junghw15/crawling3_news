@@ -1,5 +1,5 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# 네이버 뉴스기사 크롤링
+> '폐배터리' 키워드의 네이버 뉴스 기사를 크롤링함
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
